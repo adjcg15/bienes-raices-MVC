@@ -8,24 +8,33 @@ El proyecto es totalmente responsivo y cuenta con múltiples vistas.
 Por un lado se encuentran las vistas de las rutas públicas, las vistas que los clientes pueden visitar y aquella desde donde los administradores pueden hacer login al panel de administración.
 Vista principal, inicio del sitio.
 ![Página de inicio](http://drive.google.com/uc?export=view&id=1qD4t_JCe7r8ryIvKXiu5koRMAv8aBgS_)
-Inicio del siito, presentación de algunas propiedades y un poco de información sobre la empresa.
+
+Inicio del sitio, presentación de algunas propiedades y un poco de información sobre la empresa.
 ![Página de inicio-medio](http://drive.google.com/uc?export=view&id=1zKPx5lrV7LICilfaDe0Bjw55YEWtSB4l)
-Inicio del siito, breve introducción al blog, conección a nosotros y navegación del footer.
+
+Inicio del sitio, breve introducción al blog, conexión a nosotros y navegación del footer.
 ![Página de inicio-footer](http://drive.google.com/uc?export=view&id=14ca0vMIIVOiwfO9shVaCU7OZ1llskpHP)
+
 Página que ofrece más información sobre la empresa.
 ![Nosotros](http://drive.google.com/uc?export=view&id=1rzIOkcOvuiQM00cvvUuzE3_9ZjU-CWyu)
-Página donde sde muestran todas las propiedades en venta, pudiendo acceder a toda la información de cada una.
+
+Página donde se muestran todas las propiedades en venta, pudiendo acceder a toda la información de cada una.
 ![Propiedades](http://drive.google.com/uc?export=view&id=1SPGNlhyAAwN2uoeeXr8PQVmq-JXJ9jiA)
-Blog de la página, donde se comparten consejos para mejorar el hogar.
+
+Blog de la página.
 ![Blog](http://drive.google.com/uc?export=view&id=1sDqgquGvmfEt10X3EOoiogHcD9ztd31E)
+
 Página de contacto para enviar correo directamente a la empresa.
 ![Contacto](http://drive.google.com/uc?export=view&id=1-cT4TuPHFjTE7gApb92vUiVurPv-IJLd)
+
 Login para los administradores del sitio.
 ![Login](http://drive.google.com/uc?export=view&id=174Jj9cODL4Z47UuxZAmtrofaMXNP5caw)
 
 Por otra parte se encuentran las vistas protegidas, aquellas a las que solamente tienen acceso los administradores del sitio.
+
 Vista para administra las propiedades en venta.
 ![Admin propiedades](http://drive.google.com/uc?export=view&id=1_FU3mgfdmEzn6yW3ml2Z-NpOZWB62u3w)
+
 Vista para administra los empleados.
 ![Admin empleados](http://drive.google.com/uc?export=view&id=1wSdi0kE-w1vUd8aV5VVLEuY_lgGOD9fc)
 
